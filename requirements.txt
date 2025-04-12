@@ -1,0 +1,6 @@
+torch==2.2.0
+magenta==2.1.4
+pretty_midi==0.2.10
+pyqt5==5.15.9
+pyinstaller==6.3.0
+tensorflow-macos==2.15.0
